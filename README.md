@@ -1,2 +1,1 @@
-# TANK-GAME-
-C++
+I've embarked on your first foray into game development using c++, venturing into the realm of 2D gaming. With determination as your fuel, you're crafting a unique gaming experience from scratch. Each line of code brings you closer to your vision, where creativity and technical skill converge to create something truly remarkable.
